@@ -1,0 +1,65 @@
+
+@font-face{
+    font-family: "FiraSans-Light";
+    src: url("/fonts/FiraSans-Light.otf") format("otf");
+}
+
+@font-face{
+    font-family: "FiraSans-Thin";
+    src: url("/fonts/FiraSans-Thin.otf") format("otf");
+}
+
+@font-face{
+    font-family: "FiraSans-Book";
+    src: url("/fonts/FiraSans-Book.otf") format("otf");
+}
+
+@font-face {
+    font-family: "Arciform";
+    src: url("/fonts/Arciform.otf") format("otf");
+}
+
+@font-face{
+    font-family: "OpenSans-Regular";
+    src: url("/fonts/OpenSans-Regular.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "OpenSans-Light";
+    src: url("/fonts/OpenSans-Light.ttf")  format("ttf");
+}
+
+@font-face{
+    font-family: "Lato-Regular";
+    src: url("/fonts/Lato-Regular.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "Lato-Light";
+    src: url("/fonts/Lato-Light.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "Montserrat-Regular";
+    src: url("/fonts/Montserrat-Regular.otf") format("otf");
+}
+
+@font-face{
+    font-family: "Abel-regular";
+    src: url("/fonts/abel-regular.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "Philosopher-Regular";
+    src: url("/fonts/Philosopher-Regular.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "CinzelDecorative-Bold";
+    src: url("/fonts/CinzelDecorative-Bold.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "CinzelDecorative-Regular";
+    src: url("/fonts/CinzelDecorative-Regular.ttf") format("ttf");
+}

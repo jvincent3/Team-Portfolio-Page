@@ -21,6 +21,13 @@ body {
     font-size: 20px;
     line-height: 1.4;
 }
+button {
+    color : #b7ff00;
+    border : 3px solid #b7ff00;
+    border-radius: 50px;
+    background-color: transparent;
+    font-size: 18px;
+}
 
 /* Menu Styling */
 
@@ -56,6 +63,7 @@ body {
     background-color: #111;
 }
 
+
 /* Header Styling */
 
 .header-content{
@@ -69,13 +77,19 @@ body {
 }
 
 .header-content h1 {
-    color: #fff;
+    color: #b7ff00;
+    text-align:center;
 }
+
 
 .header-content p {
     color: #fff;
 }
+.header-content button {
+    width:120px;
+    height:50px;
 
+}
 .about-button{
     color: #b7ff00;
     border: 3px solid #b7ff00;
@@ -84,6 +98,12 @@ body {
     padding: 5px 15px;
     font-size: 18px;
 }
+/* Section */
+.section-title{
+    text-align:center;
+    font-size:63px;
+}
+
 
 /* Text */
 h1,h2,h3,h4,p {
